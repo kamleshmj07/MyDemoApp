@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Transactions" max_length="40" name="x_320684_mydemoapp_transactions" type="collection"/>
+</database>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="MyDemoApp">4025e879370433006a90dcc773990e05</application>
+        <filter/>
+        <name>Transactions</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_320684_mydemoapp.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-08 03:58:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4c25e879370433006a90dcc773990e06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Transactions</sys_name>
+        <sys_package display_value="MyDemoApp" source="x_320684_mydemoapp">a715ac39370433006a90dcc773990e63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDemoApp">a715ac39370433006a90dcc773990e63</sys_scope>
+        <sys_update_name>sys_ui_module_4c25e879370433006a90dcc773990e06</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-08 03:58:53</sys_updated_on>
+        <table>x_320684_mydemoapp_transactions</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

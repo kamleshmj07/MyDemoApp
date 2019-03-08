@@ -33,7 +33,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-03-08 04:18:00</sys_updated_on>
         <update_access>true</update_access>
-        <user_role display_value="x_320684_mydemoapp.admin" name="x_320684_mydemoapp.admin">7f15a879370433006a90dcc773990e90</user_role>
+        <user_role/>
         <ws_access>true</ws_access>
     </sys_db_object>
 </record_update>

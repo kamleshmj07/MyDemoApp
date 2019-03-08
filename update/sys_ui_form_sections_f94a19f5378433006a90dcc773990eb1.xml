@@ -25,7 +25,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_320684_mydemoapp_transactions" name="x_320684_mydemoapp_transactions" sys_domain="global" view="Default view">f94a19f5378433006a90dcc773990eb1</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_320684_mydemoapp_transactions" sys_domain="global" view="Default view">bd4a19f5378433006a90dcc773990eb0</sys_ui_section>
+            <sys_ui_section caption="Transactions" display_value="Transactions" name="x_320684_mydemoapp_transactions" sys_domain="global" view="Default view">bd4a19f5378433006a90dcc773990eb0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-03-08 07:51:06</sys_updated_on>
         </sys_ui_form_section>

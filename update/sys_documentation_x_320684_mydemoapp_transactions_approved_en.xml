@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="approved" label="Approved" language="en" table="x_320684_mydemoapp_transactions">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>approved</element>
+            <help/>
+            <hint/>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_320684_mydemoapp_transactions</name>
+            <plural>Approved</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-08 04:17:05</sys_created_on>
+            <sys_id>fa4924bd370433006a90dcc773990eee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Approved</sys_name>
+            <sys_package display_value="MyDemoApp" source="x_320684_mydemoapp">a715ac39370433006a90dcc773990e63</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MyDemoApp">a715ac39370433006a90dcc773990e63</sys_scope>
+            <sys_update_name>sys_documentation_x_320684_mydemoapp_transactions_approved_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-08 04:17:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

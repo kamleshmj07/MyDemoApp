@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Transactions" max_length="40" name="x_320684_mydemoapp_transactions" type="collection"/>
+    <element extends="task" label="Transactions" max_length="40" name="x_320684_mydemoapp_transactions" type="collection">
+        <element label="Approved" max_length="40" name="approved" type="boolean"/>
+        <element label="Currency" max_length="50" name="currency" type="string"/>
+        <element label="Exchange" max_length="50" name="exchange" type="string"/>
+        <element label="Price" max_length="20" name="price" type="price"/>
+        <element label="Stock Name" max_length="200" name="stock_name" type="string"/>
+        <element label="Symbol" max_length="100" name="symbol" type="string"/>
+        <element label="Transaction Id" max_length="40" name="transaction_id" type="integer"/>
+    </element>
 </database>

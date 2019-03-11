@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_320684_mydemoapp_transactions">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="tranid" table="x_320684_mydemoapp_raw_transaction_tbl">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -15,7 +15,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>tranid</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,15 +28,15 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>tranid</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Collection">collection</internal_type>
+        <internal_type display_value="Integer">integer</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_320684_mydemoapp_transactions</name>
+        <name>x_320684_mydemoapp_raw_transaction_tbl</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -48,21 +48,21 @@
         <reference_qual/>
         <reference_qual_condition/>
         <reference_type/>
-        <sizeclass>1</sizeclass>
+        <sizeclass/>
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-03-08 03:58:52</sys_created_on>
-        <sys_id>7315a879370433006a90dcc773990ee7</sys_id>
+        <sys_created_on>2019-03-11 10:28:32</sys_created_on>
+        <sys_id>ef9a5972374033006a90dcc773990e24</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_320684_mydemoapp_transactions</sys_name>
+        <sys_name>tranid</sys_name>
         <sys_package display_value="MyDemoApp" source="x_320684_mydemoapp">a715ac39370433006a90dcc773990e63</sys_package>
         <sys_policy/>
         <sys_scope display_value="MyDemoApp">a715ac39370433006a90dcc773990e63</sys_scope>
-        <sys_update_name>sys_dictionary_x_320684_mydemoapp_transactions_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_320684_mydemoapp_raw_transaction_tbl_tranid</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-03-08 03:58:52</sys_updated_on>
+        <sys_updated_on>2019-03-11 10:28:32</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

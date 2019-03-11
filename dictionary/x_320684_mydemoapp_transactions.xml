@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Transactions" max_length="40" name="x_320684_mydemoapp_transactions" type="collection">
+    <element extends="task" label="Transactions" max_length="40" name="x_320684_mydemoapp_transactions" sizeclass="1" type="collection">
         <element label="Approved" max_length="40" name="approved" type="boolean"/>
         <element label="Currency" max_length="50" name="currency" type="string"/>
         <element label="Exchange" max_length="50" name="exchange" type="string"/>

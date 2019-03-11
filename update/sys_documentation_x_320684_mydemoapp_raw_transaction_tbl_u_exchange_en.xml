@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="price" label="Price" language="en" table="x_320684_mydemoapp_raw_transaction_tbl">
+    <sys_documentation element="u_exchange" label="exchange" language="en" table="x_320684_mydemoapp_raw_transaction_tbl">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>price</element>
+            <element>u_exchange</element>
             <help/>
             <hint/>
-            <label>Price</label>
+            <label>exchange</label>
             <language>en</language>
             <name>x_320684_mydemoapp_raw_transaction_tbl</name>
-            <plural>Prices</plural>
+            <plural>exchanges</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-11 10:28:33</sys_created_on>
-            <sys_id>dd1bdd3a374033006a90dcc773990ec2</sys_id>
+            <sys_created_on>2019-03-11 13:35:58</sys_created_on>
+            <sys_id>fef5c63237c033006a90dcc773990e72</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Price</sys_name>
+            <sys_name>exchange</sys_name>
             <sys_package display_value="MyDemoApp" source="x_320684_mydemoapp">a715ac39370433006a90dcc773990e63</sys_package>
             <sys_policy/>
             <sys_scope display_value="MyDemoApp">a715ac39370433006a90dcc773990e63</sys_scope>
-            <sys_update_name>sys_documentation_x_320684_mydemoapp_raw_transaction_tbl_price_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_320684_mydemoapp_raw_transaction_tbl_u_exchange_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-11 10:28:33</sys_updated_on>
+            <sys_updated_on>2019-03-11 13:35:58</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

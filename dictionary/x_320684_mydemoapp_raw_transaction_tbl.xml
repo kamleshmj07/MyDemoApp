@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element extends="sys_import_set_row" label="Raw_Transaction_Tbl" max_length="40" name="x_320684_mydemoapp_raw_transaction_tbl" type="collection">
-        <element label="approved" max_length="40" name="approved" type="boolean"/>
-        <element label="currency" max_length="40" name="currency" type="string"/>
-        <element label="exchange" max_length="40" name="exchange" type="string"/>
-        <element label="price" max_length="20" name="price" type="price"/>
-        <element label="stock" max_length="40" name="stock" type="string"/>
-        <element label="symbol" max_length="40" name="symbol" type="string"/>
-        <element label="tranid" max_length="40" name="tranid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="approved" max_length="40" name="u_approved" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="currency" max_length="40" name="u_currency" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="exchange" max_length="40" name="u_exchange" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="price" max_length="40" name="u_price" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="stock" max_length="40" name="u_stock" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="symbol" max_length="40" name="u_symbol" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="tranid" max_length="40" name="u_tranid" type="string"/>
     </element>
 </database>

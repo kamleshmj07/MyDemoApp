@@ -1,0 +1,1001 @@
+tranid,stock,symbol,exchange,currency,price,approved
+1,"Sequential Brands Group, Inc.",SQBG,NASDAQ,EUR,23,FALSE
+2,"World Wrestling Entertainment, Inc.",WWE,NYSE,EUR,53,FALSE
+3,Washington Real Estate Investment Trust,WRE,NYSE,CNY,84,FALSE
+4,Celyad SA,CYAD,NASDAQ,CNY,9,FALSE
+5,"Magellan Health, Inc.",MGLN,NASDAQ,LTL,15,FALSE
+6,"Bankrate, Inc.",RATE,NYSE,CNY,12,FALSE
+7,"Alliance Holdings GP, L.P.",AHGP,NASDAQ,PEN,77,FALSE
+8,"L3 Technologies, Inc.",LLL,NYSE,RUB,47,FALSE
+9,"Gores Holdings II, Inc.",GSHTU,NASDAQ,SEK,63,FALSE
+10,Cummins Inc.,CMI,NYSE,VEF,85,FALSE
+11,Colonial Investment Grade Municipal Trust,CXH,NYSE,CNY,35,FALSE
+12,Tekla Healthcare Opportunies Fund,THQ,NYSE,JPY,17,FALSE
+13,Synalloy Corporation,SYNL,NASDAQ,CNY,44,FALSE
+14,"Alaska Communications Systems Group, Inc.",ALSK,NASDAQ,RUB,14,FALSE
+15,"CBL & Associates Properties, Inc.",CBL^D,NYSE,PHP,76,FALSE
+16,"CBL & Associates Properties, Inc.",CBL^D,NYSE,EUR,12,FALSE
+17,"First Interstate BancSystem, Inc.",FIBK,NASDAQ,GEL,69,FALSE
+18,Kitov Pharmaceuticals Holdings Ltd.,KTOV,NASDAQ,BRL,99,FALSE
+19,Gigamon Inc.,GIMO,NYSE,COP,15,FALSE
+20,Manulife Financial Corp,MFC,NYSE,COP,82,FALSE
+21,Rowan Companies plc,RDC,NYSE,EUR,68,FALSE
+22,State Street Corporation,STT^G,NYSE,CAD,52,FALSE
+23,Invesco Municipal Income Opportunities Trust,OIA,NYSE,EUR,73,FALSE
+24,"General American Investors, Inc.",GAM,NYSE,RUB,83,FALSE
+25,"My Size, Inc.",MYSZ,NASDAQ,RUB,50,FALSE
+26,"Sunshine Bancorp, Inc.",SBCP,NASDAQ,CNY,34,FALSE
+27,"Badger Meter, Inc.",BMI,NYSE,CNY,15,FALSE
+28,Sussex Bancorp,SBBX,NASDAQ,CNY,62,FALSE
+29,"Cascadian Therapeutics, Inc.",CASC,NASDAQ,EUR,41,FALSE
+30,"Second Sight Medical Products, Inc.",EYESW,NASDAQ,THB,26,FALSE
+31,"BMC Stock Holdings, Inc.",BMCH,NASDAQ,BRL,42,FALSE
+32,"Organovo Holdings, Inc.",ONVO,NASDAQ,CAD,90,FALSE
+33,Semiconductor  Manufacturing International Corporation,SMI,NYSE,GTQ,21,FALSE
+34,Petrobras Argentina S.A.,PZE,NYSE,EUR,70,FALSE
+35,"MFA Financial, Inc.",MFA^B,NYSE,MXN,82,FALSE
+36,"National Security Group, Inc.",NSEC,NASDAQ,NZD,64,FALSE
+37,"Gabelli Equity Trust, Inc. (The)",GAB^J,NYSE,BRL,32,FALSE
+38,"People&#39;s United Financial, Inc.",PBCT,NASDAQ,BRL,52,FALSE
+39,FelCor Lodging Trust Incorporated,FCH,NYSE,LTL,19,FALSE
+40,Delphi Automotive plc,DLPH,NYSE,CNY,17,FALSE
+41,"Dominion Energy Midstream Partners, LP",DM,NYSE,CNY,37,FALSE
+42,Star Bulk Carriers Corp.,SBLK,NASDAQ,EUR,71,FALSE
+43,iShares MSCI USA ESG Optimized ETF,ESGU,NASDAQ,CNY,21,FALSE
+44,"NextEra Energy, Inc.",NEE^K,NYSE,PLN,58,FALSE
+45,Quinpario Acquisition Corp. 2,QPACW,NASDAQ,CZK,55,FALSE
+46,OncoGenex Pharmaceuticals Inc.,OGXI,NASDAQ,IDR,38,FALSE
+47,"Harte-Hanks, Inc.",HHS,NYSE,CNY,89,FALSE
+48,"Acorn International, Inc.",ATV,NYSE,PHP,7,FALSE
+49,Lipocine Inc.,LPCN,NASDAQ,PHP,19,FALSE
+50,"Interpace Diagnostics Group, Inc.",IDXG,NASDAQ,BRL,82,FALSE
+51,Ivy NextShares,IVFGC,NASDAQ,CUP,8,FALSE
+52,"Entegris, Inc.",ENTG,NASDAQ,YER,99,FALSE
+53,Madison Covered Call & Equity Strategy Fund,MCN,NYSE,BRL,61,FALSE
+54,"TechTarget, Inc.",TTGT,NASDAQ,CNY,90,FALSE
+55,RXi Pharmaceuticals Corporation,RXIIW,NASDAQ,BRL,36,FALSE
+56,"American Financial Group, Inc.",AFW.CL,NYSE,CNY,14,FALSE
+57,Gabelli NextShares Trust,MOGLC,NASDAQ,CNY,51,FALSE
+58,Luna Innovations Incorporated,LUNA,NASDAQ,ALL,73,FALSE
+59,"Spartan Motors, Inc.",SPAR,NASDAQ,HRK,61,FALSE
+60,"Pulse Biosciences, Inc",PLSE,NASDAQ,IDR,71,FALSE
+61,Barings Participation Investors,MPV,NYSE,RUB,61,FALSE
+62,"JPMorgan China Region Fund, Inc.",JFC,NYSE,PEN,78,FALSE
+63,"The Hain Celestial Group, Inc.",HAIN,NASDAQ,BDT,80,FALSE
+64,"Just Energy Group, Inc.",JE,NYSE,CNY,19,FALSE
+65,Differential Brands Group Inc.,DFBG,NASDAQ,MXN,32,FALSE
+66,Sanchez Energy Corporation,SN,NYSE,PLN,5,FALSE
+67,"Paramount Group, Inc.",PGRE,NYSE,IDR,58,FALSE
+68,Cimarex Energy Co,XEC,NYSE,SEK,67,FALSE
+69,"Southern National Bancorp of Virginia, Inc.",SONA,NASDAQ,IDR,81,FALSE
+70,"Unity Bancorp, Inc.",UNTY,NASDAQ,IDR,20,FALSE
+71,"New York Mortgage Trust, Inc.",NYMTP,NASDAQ,CNY,90,FALSE
+72,Medallion Financial Corp.,MFINL,NASDAQ,CNY,17,FALSE
+73,"Stoneridge, Inc.",SRI,NYSE,CNY,77,FALSE
+74,POSCO,PKX,NYSE,PAB,47,FALSE
+75,Elbit Systems Ltd.,ESLT,NASDAQ,CNY,29,FALSE
+76,"PhotoMedex, Inc.",PHMD,NASDAQ,ARS,73,FALSE
+77,Annaly Capital Management Inc,NLY^E,NYSE,UGX,63,FALSE
+78,Huntington Bancshares Incorporated,HBANN,NASDAQ,USD,31,FALSE
+79,"Mesa Laboratories, Inc.",MLAB,NASDAQ,AMD,71,FALSE
+80,"Equifax, Inc.",EFX,NYSE,CUP,32,FALSE
+81,"Western Asset High Income Opportunity Fund, Inc.",HIO,NYSE,ETB,34,FALSE
+82,Nuveen Multi-Market Income Fund,JMM,NYSE,EUR,35,FALSE
+83,"American Airlines Group, Inc.",AAL,NASDAQ,MKD,16,FALSE
+84,Mobileye N.V.,MBLY,NYSE,ARS,2,FALSE
+85,XBiotech Inc.,XBIT,NASDAQ,EUR,27,FALSE
+86,NXT-ID Inc.,NXTD,NASDAQ,UAH,70,FALSE
+87,"The Bon-Ton Stores, Inc.",BONT,NASDAQ,CNY,36,FALSE
+88,Government Properties Income Trust,GOVNI,NASDAQ,CNY,46,FALSE
+89,"ProPhase Labs, Inc.",PRPH,NASDAQ,CNY,37,FALSE
+90,Bank Of Montreal,BMO,NYSE,IDR,24,FALSE
+91,Hingham Institution for Savings,HIFS,NASDAQ,IDR,40,FALSE
+92,Ashland Global Holdings Inc.,ASH,NYSE,RUB,10,FALSE
+93,Teekay LNG Partners L.P.,TGP,NYSE,CNY,38,FALSE
+94,"Simon Property Group, Inc.",SPG,NYSE,PHP,39,FALSE
+95,Arthur J. Gallagher & Co.,AJG,NYSE,PKR,58,FALSE
+96,"Teligent, Inc.",TLGT,NASDAQ,SEK,81,FALSE
+97,Jensyn Acquistion Corp.,JSYNU,NASDAQ,PEN,33,FALSE
+98,Buenaventura Mining Company Inc.,BVN,NYSE,NZD,2,FALSE
+99,CONSOL Energy Inc.,CNX,NYSE,EUR,28,FALSE
+100,Vipshop Holdings Limited,VIPS,NYSE,AFN,46,FALSE
+101,Aircastle Limited,AYR,NYSE,EUR,47,FALSE
+102,"Cohen & Steers Infrastructure Fund, Inc",UTF,NYSE,BRL,45,FALSE
+103,Aspen Insurance Holdings Limited,AHL^D,NYSE,XOF,96,FALSE
+104,Voya Emerging Markets High Income Dividend Equity Fund,IHD,NYSE,CNY,53,FALSE
+105,"MBIA, Inc.",MBI,NYSE,PHP,44,FALSE
+106,"Dr Pepper Snapple Group, Inc",DPS,NYSE,PHP,58,FALSE
+107,Icahn Enterprises L.P.,IEP,NASDAQ,COP,24,FALSE
+108,KB Financial Group Inc,KB,NYSE,BDT,22,FALSE
+109,Granite Real Estate Inc.,GRP.U,NYSE,BOB,35,FALSE
+110,Fidelity Nasdaq Composite Index Tracking Stock,ONEQ,NASDAQ,BRL,28,FALSE
+111,Gladstone Investment Corporation,GAINM,NASDAQ,CNY,59,FALSE
+112,"Synthetic Fixed-Income Securities, Inc.",GJV,NYSE,PHP,88,FALSE
+113,Rogers Corporation,ROG,NYSE,EUR,97,FALSE
+114,Noodles & Company,NDLS,NASDAQ,IDR,29,FALSE
+115,Navios Maritime Acquisition Corporation,NNA,NYSE,XOF,65,FALSE
+116,Tekla Healthcare Investors,HQH,NYSE,EUR,3,FALSE
+117,"New York Community Bancorp, Inc.",NYCB^U,NYSE,ARS,17,FALSE
+118,Arconic Inc.,ARNC^B,NYSE,JPY,79,FALSE
+119,Swift Transportation Company,SWFT,NYSE,IDR,28,FALSE
+120,Southwestern Energy Company,SWNC,NYSE,BRL,16,FALSE
+121,TEGNA Inc.,GCI,NYSE,EUR,59,FALSE
+122,"pdvWireless, Inc.",PDVW,NASDAQ,GBP,89,FALSE
+123,FirstService Corporation,FSV,NASDAQ,CNY,78,FALSE
+124,"Ironwood Pharmaceuticals, Inc.",IRWD,NASDAQ,KES,60,FALSE
+125,M&T Bank Corporation,MTB^C,NYSE,TZS,1,FALSE
+126,"Fidelity National Financial, Inc.",FNFV,NYSE,USD,4,FALSE
+127,"CF Industries Holdings, Inc.",CF,NYSE,EUR,2,FALSE
+128,Quinpario Acquisition Corp. 2,QPACU,NASDAQ,IDR,11,FALSE
+129,"Synopsys, Inc.",SNPS,NASDAQ,IDR,86,FALSE
+130,New Mountain Finance Corporation,NMFC,NYSE,IDR,67,FALSE
+131,Duke Realty Corporation,DRE,NYSE,PHP,23,FALSE
+132,Cross Timbers Royalty Trust,CRT,NYSE,THB,30,FALSE
+133,W.R. Grace & Co.,GRA,NYSE,CNY,68,FALSE
+134,National General Holdings Corp,NGHCO,NASDAQ,BRL,76,FALSE
+135,"Pfizer, Inc.",PFE,NYSE,MZN,38,FALSE
+136,Equity Commonwealth,EQC,NYSE,UZS,44,FALSE
+137,KKR & Co. L.P.,KKR,NYSE,EUR,90,FALSE
+138,Kaman Corporation,KAMN,NYSE,JPY,36,FALSE
+139,"ICU Medical, Inc.",ICUI,NASDAQ,IRR,12,FALSE
+140,Stifel Financial Corporation,SF^A,NYSE,KRW,43,FALSE
+141,First Trust Nasdaq Retail ETF,FTXD,NASDAQ,CNY,21,FALSE
+142,Cherokee Inc.,CHKE,NASDAQ,CNY,99,FALSE
+143,"Five Prime Therapeutics, Inc.",FPRX,NASDAQ,IDR,76,FALSE
+144,Key Tronic Corporation,KTCC,NASDAQ,MMK,40,FALSE
+145,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index ,GRID,NASDAQ,XPF,72,FALSE
+146,"Highwoods Properties, Inc.",HIW,NYSE,CLP,2,FALSE
+147,Pimco Income Opportunity Fund,PKO,NYSE,XCD,17,FALSE
+148,"Lantheus Holdings, Inc.",LNTH,NASDAQ,SEK,61,FALSE
+149,KKR & Co. L.P.,KKR,NYSE,CNY,45,FALSE
+150,Colonial Investment Grade Municipal Trust,CXH,NYSE,VND,68,FALSE
+151,Intel Corporation,INTC,NASDAQ,ETB,89,FALSE
+152,American National Insurance Company,ANAT,NASDAQ,CNY,92,FALSE
+153,Griffon Corporation,GFF,NYSE,PLN,71,FALSE
+154,Allot Communications Ltd.,ALLT,NASDAQ,MKD,38,FALSE
+155,"Sage Therapeutics, Inc.",SAGE,NASDAQ,CNY,87,FALSE
+156,Nordic American Tankers Limited,NAT,NYSE,IDR,36,FALSE
+157,MFS Multimarket Income Trust,MMT,NYSE,AMD,86,FALSE
+158,Saratoga Investment Corp,SAB,NYSE,EUR,78,FALSE
+159,"Frequency Electronics, Inc.",FEIM,NASDAQ,IDR,40,FALSE
+160,Xplore Technologies Corp,XPLR,NASDAQ,IDR,100,FALSE
+161,Kimco Realty Corporation,KIM^J,NYSE,IDR,75,FALSE
+162,Corporate Asset Backed Corp CABCO,GYC,NYSE,CZK,51,FALSE
+163,"Allete, Inc.",ALE,NYSE,IDR,87,FALSE
+164,Aradigm Corporation,ARDM,NASDAQ,EUR,91,FALSE
+165,"Lake Shore Bancorp, Inc.",LSBK,NASDAQ,IDR,44,FALSE
+166,"WageWorks, Inc.",WAGE,NYSE,USD,87,FALSE
+167,Ingredion Incorporated,INGR,NYSE,BOB,73,FALSE
+168,GrubHub Inc.,GRUB,NYSE,CNY,37,FALSE
+169,"MercadoLibre, Inc.",MELI,NASDAQ,EUR,81,FALSE
+170,Morgan Stanley China A Share Fund Inc.,CAF,NYSE,CNY,60,FALSE
+171,Matador Resources Company,MTDR,NYSE,ZMW,3,FALSE
+172,"Novavax, Inc.",NVAX,NASDAQ,COP,60,FALSE
+173,"Conn&#39;s, Inc.",CONN,NASDAQ,PLN,65,FALSE
+174,ENDRA Life Sciences Inc.,NDRAU,NASDAQ,EUR,37,FALSE
+175,"Crown Crafts, Inc.",CRWS,NASDAQ,LKR,54,FALSE
+176,"Diamond Hill Investment Group, Inc.",DHIL,NASDAQ,PLN,11,FALSE
+177,Pacific Drilling S.A.,PACD,NYSE,EUR,94,FALSE
+178,"Cal-Maine Foods, Inc.",CALM,NASDAQ,PEN,28,FALSE
+179,"Inter Parfums, Inc.",IPAR,NASDAQ,PLN,67,FALSE
+180,GP Investments Acquisition Corp.,GPIAW,NASDAQ,EGP,28,FALSE
+181,CyberOptics Corporation,CYBE,NASDAQ,CNY,15,FALSE
+182,Motif Bio plc,MTFB,NASDAQ,BRL,19,FALSE
+183,"Central Europe, Russia and Turkey Fund, Inc. (The)",CEE,NYSE,BOB,40,FALSE
+184,WPP plc,WPPGY,NASDAQ,IDR,4,FALSE
+185,DSW Inc.,DSW,NYSE,CNY,80,FALSE
+186,GGP Inc.,GGP^A,NYSE,RUB,98,FALSE
+187,Kennametal Inc.,KMT,NYSE,NGN,26,FALSE
+188,"iRhythm Technologies, Inc.",IRTC,NASDAQ,JOD,49,FALSE
+189,Precision Drilling Corporation,PDS,NYSE,EUR,61,FALSE
+190,Bank of America Corporation,BAC^I,NYSE,JPY,23,FALSE
+191,"PNC Financial Services Group, Inc. (The)",PNC^P,NYSE,BRL,90,FALSE
+192,VictoryShares International High Div Volatility Wtd ETF,CID,NASDAQ,CNY,73,FALSE
+193,Prospect Capital Corporation,PSEC,NASDAQ,IDR,78,FALSE
+194,"NCI, Inc.",NCIT,NASDAQ,CNY,62,FALSE
+195,"Intevac, Inc.",IVAC,NASDAQ,EUR,75,FALSE
+196,U.S. Bancorp,USB,NYSE,CNY,5,FALSE
+197,Dynasil Corporation of America,DYSL,NASDAQ,PLN,78,FALSE
+198,"Inovio Pharmaceuticals, Inc.",INO,NASDAQ,PLN,88,FALSE
+199,"Senomyx, Inc.",SNMX,NASDAQ,RUB,15,FALSE
+200,Fifth Street Finance Corp.,FSCFL,NASDAQ,CNY,21,FALSE
+201,Student Transportation Inc,STB,NASDAQ,PHP,79,FALSE
+202,Nuveen California AMT-Free Quality Municipal Income Fund,NKX,NYSE,RUB,95,FALSE
+203,TransCanada Corporation,TRP,NYSE,CNY,82,FALSE
+204,Martin Midstream Partners L.P.,MMLP,NASDAQ,BRL,46,FALSE
+205,trivago N.V.,TRVG,NASDAQ,BRL,87,FALSE
+206,Clifton Bancorp Inc.,CSBK,NASDAQ,BRL,4,FALSE
+207,First Trust Nasdaq Bank ETF,FTXO,NASDAQ,AUD,62,FALSE
+208,"Empire State Realty Trust, Inc.",ESRT,NYSE,IDR,3,FALSE
+209,Icahn Enterprises L.P.,IEP,NASDAQ,PHP,65,FALSE
+210,TPG Pace Energy Holdings Corp.,TPGE.U,NYSE,IDR,8,FALSE
+211,Umpqua Holdings Corporation,UMPQ,NASDAQ,BRL,87,FALSE
+212,"AmTrust Financial Services, Inc.",AFSI^C,NYSE,PHP,83,FALSE
+213,"Redwood Trust, Inc.",RWT,NYSE,MAD,44,FALSE
+214,Affimed N.V.,AFMD,NASDAQ,CNY,29,FALSE
+215,Heico Corporation,HEI.A,NYSE,IDR,72,FALSE
+216,Auris Medical Holding AG,EARS,NASDAQ,CZK,57,FALSE
+217,"National Western Life Group, Inc.",NWLI,NASDAQ,CNY,98,FALSE
+218,Highway Holdings Limited,HIHO,NASDAQ,PLN,10,FALSE
+219,Kimco Realty Corporation,KIM,NYSE,SEK,84,FALSE
+220,The RMR Group Inc.,RMR,NASDAQ,MGA,19,FALSE
+221,"New York Mortgage Trust, Inc.",NYMTP,NASDAQ,ARS,37,FALSE
+222,Blackstone GSO Senior Floating Rate Term Fund,BSL,NYSE,CNY,9,FALSE
+223,"MRV Communications, Inc.",MRVC,NASDAQ,USD,97,FALSE
+224,Infosys Limited,INFY,NYSE,CNY,43,FALSE
+225,Till Capital Ltd.,TIL,NASDAQ,IDR,7,FALSE
+226,Hornbeck Offshore Services,HOS,NYSE,CNY,73,FALSE
+227,Eaton Vance Corporation,ETW,NYSE,BDT,9,FALSE
+228,EXFO Inc,EXFO,NASDAQ,COP,26,FALSE
+229,DAVIDsTEA Inc.,DTEA,NASDAQ,CNY,15,FALSE
+230,Liberty Media Corporation,FWONA,NASDAQ,EUR,83,FALSE
+231,"Perficient, Inc.",PRFT,NASDAQ,SEK,63,FALSE
+232,"Retrophin, Inc.",RTRX,NASDAQ,CNY,74,FALSE
+233,"Ryder System, Inc.",R,NYSE,EUR,56,FALSE
+234,Columbus McKinnon Corporation,CMCO,NASDAQ,UAH,62,FALSE
+235,"Ocular Therapeutix, Inc.",OCUL,NASDAQ,USD,28,FALSE
+236,BLDRS Europe 100 ADR Index Fund,ADRU,NASDAQ,CNY,61,FALSE
+237,Dynatronics Corporation,DYNT,NASDAQ,PKR,18,FALSE
+238,"TriState Capital Holdings, Inc.",TSC,NASDAQ,BRL,25,FALSE
+239,Gogo Inc.,GOGO,NASDAQ,PHP,23,FALSE
+240,MediWound Ltd.,MDWD,NASDAQ,CNY,28,FALSE
+241,iShares MSCI Europe Small-Cap ETF,IEUS,NASDAQ,PAB,99,FALSE
+242,"Acacia Communications, Inc.",ACIA,NASDAQ,RUB,12,FALSE
+243,"Netlist, Inc.",NLST,NASDAQ,CNY,37,FALSE
+244,"Waterstone Financial, Inc.",WSBF,NASDAQ,EUR,67,FALSE
+245,iShares MSCI Qatar Capped ETF,QAT,NASDAQ,THB,92,FALSE
+246,"One Liberty Properties, Inc.",OLP,NYSE,CNY,40,FALSE
+247,GasLog Partners LP,GLOP^A,NYSE,EUR,33,FALSE
+248,"B. Riley Financial, Inc.",RILYL,NASDAQ,UZS,75,FALSE
+249,Benitec Biopharma Limited,BNTC,NASDAQ,CNY,60,FALSE
+250,Prothena Corporation plc,PRTA,NASDAQ,ILS,2,FALSE
+251,S&P Global Inc.,SPGI,NYSE,CNY,85,FALSE
+252,"Summit Hotel Properties, Inc.",INN^B,NYSE,PLN,89,FALSE
+253,FlexShares STOXX US ESG Impact Index Fund,ESG,NASDAQ,EUR,93,FALSE
+254,Accenture plc,ACN,NYSE,IDR,4,FALSE
+255,Coca Cola Femsa S.A.B. de C.V.,KOF,NYSE,CAD,37,FALSE
+256,BankFinancial Corporation,BFIN,NASDAQ,IDR,99,FALSE
+257,GP Strategies Corporation,GPX,NYSE,NOK,85,FALSE
+258,"iRhythm Technologies, Inc.",IRTC,NASDAQ,THB,14,FALSE
+259,John Hancock Preferred Income Fund III,HPS,NYSE,MYR,78,FALSE
+260,Public Storage,PSA^Z,NYSE,USD,38,FALSE
+261,Capstead Mortgage Corporation,CMO,NYSE,JPY,76,FALSE
+262,"Sky Solar Holdings, Ltd.",SKYS,NASDAQ,CNY,86,FALSE
+263,"City Office REIT, Inc.",CIO^A,NYSE,PHP,74,FALSE
+264,First Trust Large Cap Growth AlphaDEX Fund,FTC,NASDAQ,USD,18,FALSE
+265,iShares iBoxx $ High Yield ex Oil & Gas Corporate Bond ETF,HYXE,NASDAQ,RSD,29,FALSE
+266,Assured Guaranty Ltd.,AGO^F,NYSE,PEN,4,FALSE
+267,"Hawaiian Electric Industries, Inc.",HE,NYSE,EUR,87,FALSE
+268,Rexnord Corporation,RXN,NYSE,UYU,67,FALSE
+269,"Wheeler Real Estate Investment Trust, Inc.",WHLR,NASDAQ,BRL,68,FALSE
+270,Meredith Corporation,MDP,NYSE,CZK,8,FALSE
+271,Meridian Bioscience Inc.,VIVO,NASDAQ,KES,70,FALSE
+272,"Teladoc, Inc.",TDOC,NYSE,CNY,27,FALSE
+273,Scotts Miracle-Gro Company (The),SMG,NYSE,BRL,70,FALSE
+274,"Reinsurance Group of America, Incorporated",RZB,NYSE,AFN,17,FALSE
+275,The Health and Fitness ETF,FITS,NASDAQ,SEK,47,FALSE
+276,"AMERISAFE, Inc.",AMSF,NASDAQ,THB,50,FALSE
+277,VelocityShares Daily Inverse VIX Medium-Term ETN,ZIV,NASDAQ,RUB,22,FALSE
+278,voxeljet AG,VJET,NYSE,KZT,44,FALSE
+279,J P Morgan Chase & Co,JPM^D,NYSE,PLN,71,FALSE
+280,"Blackrock MuniHoldings Quality Fund II, Inc.",MUE,NYSE,EGP,33,FALSE
+281,Baxter International Inc.,BAX,NYSE,IDR,66,FALSE
+282,"Colony NorthStar, Inc.",CLNS^I,NYSE,CNY,38,FALSE
+283,"Tower International, Inc.",TOWR,NYSE,EUR,53,FALSE
+284,Williams Partners LP,WPZ,NYSE,CNY,78,FALSE
+285,"SiteOne Landscape Supply, Inc.",SITE,NYSE,PHP,15,FALSE
+286,Corning Incorporated,GLW,NYSE,CNY,9,FALSE
+287,"Super Micro Computer, Inc.",SMCI,NASDAQ,BRL,28,FALSE
+288,"Customers Bancorp, Inc",CUBS,NYSE,USD,34,FALSE
+289,"Maiden Holdings, Ltd.",MHLD,NASDAQ,EUR,29,FALSE
+290,Autohome Inc.,ATHM,NYSE,LYD,15,FALSE
+291,PartnerRe Ltd.,PRE^F,NYSE,SDG,57,FALSE
+292,Sensient Technologies Corporation,SXT,NYSE,CNY,1,FALSE
+293,Wins Finance Holdings Inc.,WINS,NASDAQ,JPY,88,FALSE
+294,New Age Beverages Corporation,NBEV,NASDAQ,RUB,28,FALSE
+295,"Gores Holdings II, Inc.",GSHTU,NASDAQ,USD,88,FALSE
+296,"Kelly Services, Inc.",KELYB,NASDAQ,HRK,67,FALSE
+297,"Omnicell, Inc.",OMCL,NASDAQ,CNY,11,FALSE
+298,McDonald&#39;s Corporation,MCD,NYSE,CNY,91,FALSE
+299,"Ashford Hospitality Prime, Inc.",AHP,NYSE,HRK,40,FALSE
+300,"Alliance Resource Partners, L.P.",ARLP,NASDAQ,RUB,11,FALSE
+301,Snap Inc.,SNAP,NYSE,IDR,84,FALSE
+302,"Strata Skin Sciences, Inc.",SSKN,NASDAQ,CNY,22,FALSE
+303,Invesco Trust  for Investment Grade New York Municipal,VTN,NYSE,IDR,60,FALSE
+304,Elbit Imaging Ltd.,EMITF,NASDAQ,CAD,8,FALSE
+305,"Community Trust Bancorp, Inc.",CTBI,NASDAQ,IDR,21,FALSE
+306,Leading Brands Inc,LBIX,NASDAQ,CNY,7,FALSE
+307,"Chembio Diagnostics, Inc.",CEMI,NASDAQ,EUR,81,FALSE
+308,VictoryShares Dividend Accelerator ETF,VSDA,NASDAQ,IDR,63,FALSE
+309,General Electric Capital Corporation,GEH,NYSE,KES,39,FALSE
+310,EVINE Live Inc.,EVLV,NASDAQ,CNY,71,FALSE
+311,"Ryder System, Inc.",R,NYSE,CNY,64,FALSE
+312,FinTech Acquisition Corp. II,FNTE,NASDAQ,ARS,29,FALSE
+313,Liberty Global plc,LBTYB,NASDAQ,MDL,47,FALSE
+314,Highpower International Inc,HPJ,NASDAQ,RUB,78,FALSE
+315,"EQT Midstream Partners, LP",EQM,NYSE,CNY,93,FALSE
+316,Reading International Inc,RDIB,NASDAQ,PHP,96,FALSE
+317,Cyanotech Corporation,CYAN,NASDAQ,VND,81,FALSE
+318,"National Grid Transco, PLC",NGG,NYSE,USD,27,FALSE
+319,"Saia, Inc.",SAIA,NASDAQ,SEK,55,FALSE
+320,"ANI Pharmaceuticals, Inc.",ANIP,NASDAQ,CNY,48,FALSE
+321,Capital One Financial Corporation,COF^P,NYSE,PHP,87,FALSE
+322,NewLink Genetics Corporation,NLNK,NASDAQ,RUB,61,FALSE
+323,"Alder BioPharmaceuticals, Inc.",ALDR,NASDAQ,CLP,47,FALSE
+324,Sears Holdings Corporation,SHLD,NASDAQ,COP,73,FALSE
+325,"Greenlight Reinsurance, Ltd.",GLRE,NASDAQ,PHP,65,FALSE
+326,"SharpSpring, Inc.",SHSP,NASDAQ,NGN,53,FALSE
+327,"Darden Restaurants, Inc.",DRI,NYSE,PHP,33,FALSE
+328,Horizon Bancorp (IN),HBNC,NASDAQ,IDR,55,FALSE
+329,Alpha and Omega Semiconductor Limited,AOSL,NASDAQ,EUR,10,FALSE
+330,"CalAtlantic Group, Inc.",CAA,NYSE,ILS,57,FALSE
+331,CymaBay Therapeutics Inc.,CBAY,NASDAQ,IDR,29,FALSE
+332,THL Credit Senior Loan Fund,TSLF,NYSE,CNY,14,FALSE
+333,"Brookline Bancorp, Inc.",BRKL,NASDAQ,CNY,85,FALSE
+334,"On Assignment, Inc.",ASGN,NYSE,EUR,100,FALSE
+335,Jensyn Acquistion Corp.,JSYN,NASDAQ,IDR,71,FALSE
+336,Perry Ellis International Inc.,PERY,NASDAQ,RUB,62,FALSE
+337,"Ekso Bionics Holdings, Inc.",EKSO,NASDAQ,DOP,23,FALSE
+338,Five Star Senior Living Inc.,FVE,NASDAQ,PLN,43,FALSE
+339,John Bean Technologies Corporation,JBT,NYSE,MKD,85,FALSE
+340,"Aethlon Medical, Inc.",AEMD,NASDAQ,EUR,3,FALSE
+341,"Zendesk, Inc.",ZEN,NYSE,AZN,46,FALSE
+342,INTL FCStone Inc.,INTL,NASDAQ,UAH,25,FALSE
+343,Preferred Bank,PFBC,NASDAQ,EUR,84,FALSE
+344,Aetna Inc.,AET,NYSE,XAF,31,FALSE
+345,ProPetro Holding Corp.,PUMP,NYSE,ZAR,46,FALSE
+346,"Fogo de Chao, Inc.",FOGO,NASDAQ,EUR,51,FALSE
+347,DarioHealth Corp.,DRIOW,NASDAQ,IDR,3,FALSE
+348,"Sophiris Bio, Inc.",SPHS,NASDAQ,PHP,69,FALSE
+349,Curtiss-Wright Corporation,CW,NYSE,GBP,96,FALSE
+350,Physicians Realty Trust,DOC,NYSE,KGS,67,FALSE
+351,Alpine Global Dynamic Dividend Fund,AGD,NYSE,PHP,59,FALSE
+352,CHS Inc,CHSCO,NASDAQ,BRL,5,FALSE
+353,"Automatic Data Processing, Inc.",ADP,NASDAQ,CUP,9,FALSE
+354,UBS AG,UBS,NYSE,PLN,69,FALSE
+355,"Exponent, Inc.",EXPO,NASDAQ,PEN,38,FALSE
+356,"Internet Initiative Japan, Inc.",IIJI,NASDAQ,CNY,78,FALSE
+357,Canadian Imperial Bank of Commerce,CM,NYSE,USD,11,FALSE
+358,Crescent Point Energy Corporation,CPG,NYSE,USD,51,FALSE
+359,Davis Select Financial ETF,DFNL,NASDAQ,EUR,35,FALSE
+360,Pampa Energia S.A.,PAM,NYSE,IDR,18,FALSE
+361,"Penumbra, Inc.",PEN,NYSE,CNY,7,FALSE
+362,Invesco High Income 2023 Target Term Fund,IHIT,NYSE,PLN,52,FALSE
+363,Wells Fargo & Company,WFC^W,NYSE,XOF,84,FALSE
+364,Signature Bank,SBNYW,NASDAQ,PHP,67,FALSE
+365,Realty Income Corporation,O,NYSE,CNY,77,FALSE
+366,"Vishay Precision Group, Inc.",VPG,NYSE,MAD,64,FALSE
+367,"Threshold Pharmaceuticals, Inc.",THLD,NASDAQ,USD,82,FALSE
+368,"PolarityTE, Inc.",COOL,NASDAQ,IDR,77,FALSE
+369,Immune Pharmaceuticals Inc.,IMNP          ,NASDAQ,MKD,52,FALSE
+370,Abeona Therapeutics Inc.,ABEOW,NASDAQ,PLN,71,FALSE
+371,BlackRock Utility and Infrastructure Trust,BUI,NYSE,BRL,21,FALSE
+372,"DASAN Zhone Solutions, Inc.",DZSI,NASDAQ,PHP,71,FALSE
+373,MFS Government Markets Income Trust,MGF,NYSE,ILS,46,FALSE
+374,RGC Resources Inc.,RGCO,NASDAQ,VND,91,FALSE
+375,Domtar Corporation,UFS,NYSE,VND,10,FALSE
+376,DMC Global Inc.,BOOM,NASDAQ,CNY,70,FALSE
+377,"Bioanalytical Systems, Inc.",BASI,NASDAQ,BRL,34,FALSE
+378,ACNB Corporation,ACNB,NASDAQ,CNY,89,FALSE
+379,China Yuchai International Limited,CYD,NYSE,PKR,9,FALSE
+380,"Del Taco Restaurants, Inc.",TACOW,NASDAQ,BYR,88,FALSE
+381,"Appliance Recycling Centers of America, Inc.",ARCI,NASDAQ,IDR,22,FALSE
+382,"American International Group, Inc.",AIG,NYSE,ARS,34,FALSE
+383,Black Hills Corporation,BKH,NYSE,CNY,18,FALSE
+384,"PhaseRx, Inc.",PZRX,NASDAQ,COP,23,FALSE
+385,"Web.com Group, Inc.",WEB,NASDAQ,PGK,97,FALSE
+386,Education Realty Trust Inc.,EDR,NYSE,IDR,21,FALSE
+387,VanEck Vectors Pharmaceutical ETF,PPH,NASDAQ,CNY,84,FALSE
+388,"Maiden Holdings, Ltd.",MH^A,NYSE,IDR,45,FALSE
+389,Granite Construction Incorporated,GVA,NYSE,COP,38,FALSE
+390,Mid Penn Bancorp,MPB,NASDAQ,EUR,9,FALSE
+391,Sparton Corporation,SPA,NYSE,PKR,20,FALSE
+392,Zions Bancorporation,ZB^H,NYSE,SEK,72,FALSE
+393,"P.A.M. Transportation Services, Inc.",PTSI,NASDAQ,EUR,37,FALSE
+394,Weibo Corporation,WB,NASDAQ,CNY,75,FALSE
+395,"EnLink Midstream Partners, LP",ENLK,NYSE,SOS,13,FALSE
+396,Tocagen Inc.,TOCA,NASDAQ,JPY,44,FALSE
+397,Global X Millennials Thematic ETF,MILN,NASDAQ,PEN,52,FALSE
+398,"Guidewire Software, Inc.",GWRE,NYSE,CNY,56,FALSE
+399,"Taubman Centers, Inc.",TCO,NYSE,BRL,5,FALSE
+400,IQ Chaikin U.S. Small Cap ETF,CSML,NASDAQ,IDR,31,FALSE
+401,"Cellectar Biosciences, Inc.",CLRB,NASDAQ,RUB,51,FALSE
+402,"Enable Midstream Partners, LP",ENBL,NYSE,CNY,68,FALSE
+403,"DineEquity, Inc",DIN,NYSE,BYR,36,FALSE
+404,Chemung Financial Corp,CHMG,NASDAQ,CNY,47,FALSE
+405,"Harvard Bioscience, Inc.",HBIO,NASDAQ,IDR,48,FALSE
+406,Triangle Capital Corporation,TCAP,NYSE,IDR,7,FALSE
+407,Chemung Financial Corp,CHMG,NASDAQ,EUR,61,FALSE
+408,Arlington Asset Investment Corp,AI^B,NYSE,RUB,15,FALSE
+409,V.F. Corporation,VFC,NYSE,CNY,47,FALSE
+410,"AzurRx BioPharma, Inc.",AZRX,NASDAQ,IDR,56,FALSE
+411,Peoples Financial Services Corp. ,PFIS,NASDAQ,MYR,53,FALSE
+412,Kite Realty Group Trust,KRG,NYSE,NGN,29,FALSE
+413,"Fauquier Bankshares, Inc.",FBSS,NASDAQ,IDR,4,FALSE
+414,Zynga Inc.,ZNGA,NASDAQ,XPF,82,FALSE
+415,Horizon Technology Finance Corporation,HTF,NYSE,IDR,49,FALSE
+416,"Western New England Bancorp, Inc.",WNEB,NASDAQ,PHP,18,FALSE
+417,Stepan Company,SCL,NYSE,EUR,26,FALSE
+418,"2U, Inc.",TWOU,NASDAQ,BRL,91,FALSE
+419,Nomad Foods Limited,NOMD,NYSE,CNY,78,FALSE
+420,"Colony NorthStar, Inc.",CLNS^I,NYSE,UGX,53,FALSE
+421,"ANI Pharmaceuticals, Inc.",ANIP,NASDAQ,CNY,47,FALSE
+422,"Zillow Group, Inc.",Z,NASDAQ,CNY,67,FALSE
+423,Cohen & Steers Inc,CNS,NYSE,MNT,75,FALSE
+424,"Washington Federal, Inc.",WAFD,NASDAQ,RUB,24,FALSE
+425,Gladstone Commercial Corporation,GOOD,NASDAQ,CNY,89,FALSE
+426,Nordson Corporation,NDSN,NASDAQ,MYR,30,FALSE
+427,"Choice Hotels International, Inc.",CHH,NYSE,ARS,65,FALSE
+428,Bank of America Corporation,BAC^E,NYSE,CNY,98,FALSE
+429,Farmer Brothers Company,FARM,NASDAQ,SEK,86,FALSE
+430,"DHT Holdings, Inc.",DHT,NYSE,CNY,40,FALSE
+431,Galapagos NV,GLPG,NASDAQ,IDR,16,FALSE
+432,Anworth Mortgage Asset  Corporation,ANH^C,NYSE,NIO,53,FALSE
+433,"Spark Therapeutics, Inc.",ONCE,NASDAQ,COP,23,FALSE
+434,iShares S&P India Nifty 50 Index Fund,INDY,NASDAQ,CNY,96,FALSE
+435,Constellium N.V.,CSTM,NYSE,CUP,60,FALSE
+436,SJW Group,SJW,NYSE,CNY,9,FALSE
+437,"Medical Properties Trust, Inc.",MPW,NYSE,JOD,58,FALSE
+438,"HealthStream, Inc.",HSTM,NASDAQ,MGA,41,FALSE
+439,"Synthetic Fixed-Income Securities, Inc.",GJP,NYSE,IDR,63,FALSE
+440,Highpower International Inc,HPJ,NASDAQ,ARS,35,FALSE
+441,Seadrill Partners LLC,SDLP,NYSE,IDR,11,FALSE
+442,"TrueBlue, Inc.",TBI,NYSE,PLN,63,FALSE
+443,Paragon Commercial Corporation,PBNC,NASDAQ,BRL,44,FALSE
+444,Equity Residential,EQR,NYSE,IDR,21,FALSE
+445,Arlington Asset Investment Corp,AIW,NYSE,CNY,52,FALSE
+446,IBERIABANK Corporation,IBKC,NASDAQ,EUR,20,FALSE
+447,"RLJ Entertainment, Inc.",RLJE,NASDAQ,EUR,94,FALSE
+448,"Western New England Bancorp, Inc.",WNEB,NASDAQ,CNY,15,FALSE
+449,IRSA Inversiones Y Representaciones S.A.,IRS,NYSE,TZS,93,FALSE
+450,CoreSite Realty Corporation,COR^A,NYSE,PEN,77,FALSE
+451,PowerShares S&P SmallCap Utilities Portfolio,PSCU,NASDAQ,EUR,7,FALSE
+452,Mazor Robotics Ltd.,MZOR,NASDAQ,JPY,87,FALSE
+453,Electronic Arts Inc.,EA,NASDAQ,EUR,98,FALSE
+454,"HealthStream, Inc.",HSTM,NASDAQ,RSD,43,FALSE
+455,"Energy Recovery, Inc.",ERII,NASDAQ,TND,69,FALSE
+456,Ashland Global Holdings Inc.,ASH,NYSE,COP,32,FALSE
+457,"REV Group, Inc.",REVG,NYSE,CNY,14,FALSE
+458,"Soleno Therapeutics, Inc.",SLNO,NASDAQ,IDR,53,FALSE
+459,"AmTrust Financial Services, Inc.",AFST,NYSE,ZAR,14,FALSE
+460,"Papa John&#39;s International, Inc.",PZZA,NASDAQ,JPY,6,FALSE
+461,"Cogentix Medical, Inc.",CGNT,NASDAQ,IDR,61,FALSE
+462,"ESSA Bancorp, Inc.",ESSA,NASDAQ,PKR,70,FALSE
+463,"Ignyta, Inc.",RXDX,NASDAQ,CNY,25,FALSE
+464,"Celsius Holdings, Inc.",CELH,NASDAQ,EUR,16,FALSE
+465,"Eiger BioPharmaceuticals, Inc.",EIGR,NASDAQ,IQD,67,FALSE
+466,Abercrombie & Fitch Company,ANF,NYSE,YER,4,FALSE
+467,Washington Prime Group Inc.,WPG^H,NYSE,CZK,63,FALSE
+468,"Spirit Realty Capital, Inc.",SRC,NYSE,CNY,100,FALSE
+469,Good Times Restaurants Inc.,GTIM,NASDAQ,IDR,50,FALSE
+470,PowerShares Global Agriculture Portfolio,PAGG,NASDAQ,PLN,71,FALSE
+471,"Sandy Spring Bancorp, Inc.",SASR,NASDAQ,CNY,33,FALSE
+472,"Flagstar Bancorp, Inc.",FBC,NYSE,OMR,73,FALSE
+473,Marathon Oil Corporation,MRO,NYSE,PEN,99,FALSE
+474,BioSpecifics Technologies Corp,BSTC,NASDAQ,BRL,16,FALSE
+475,LivaNova PLC,LIVN,NASDAQ,CNY,72,FALSE
+476,Coupa Software Incorporated,COUP,NASDAQ,CNY,79,FALSE
+477,"Patterson-UTI Energy, Inc.",PTEN,NASDAQ,CNY,61,FALSE
+478,"AeroVironment, Inc.",AVAV,NASDAQ,CNY,64,FALSE
+479,Dawson Geophysical Company,DWSN,NASDAQ,EUR,5,FALSE
+480,PLDT Inc.,PHI,NYSE,IDR,12,FALSE
+481,Boulevard Acquisition Corp. II,BLVD,NASDAQ,CZK,46,FALSE
+482,Saratoga Investment Corp,SAB,NYSE,PHP,22,FALSE
+483,Heska Corporation,HSKA,NASDAQ,EUR,52,FALSE
+484,Macquarie/First Trust Global,MFD,NYSE,IDR,60,FALSE
+485,"EPAM Systems, Inc.",EPAM,NYSE,PHP,14,FALSE
+486,"Olympic Steel, Inc.",ZEUS,NASDAQ,EUR,78,FALSE
+487,Banco Santander Chile,BSAC,NYSE,EUR,14,FALSE
+488,Gabelli Global Small and Mid Cap Value Trust (The),GGZ,NYSE,NOK,89,FALSE
+489,"Nivalis Therapeutics, Inc.",NVLS,NASDAQ,BTN,79,FALSE
+490,Scientific Games Corp,SGMS,NASDAQ,EUR,37,FALSE
+491,EDAP TMS S.A.,EDAP,NASDAQ,CNY,23,FALSE
+492,Resolute Forest Products Inc.,RFP,NYSE,IDR,90,FALSE
+493,Perrigo Company,PRGO,NYSE,CNY,55,FALSE
+494,"Flexsteel Industries, Inc.",FLXS,NASDAQ,MZN,7,FALSE
+495,"National Grid Transco, PLC",NGG,NYSE,KZT,32,FALSE
+496,"Agios Pharmaceuticals, Inc.",AGIO,NASDAQ,PHP,30,FALSE
+497,Ivy High Income Opportunities Fund,IVH,NYSE,XOF,47,FALSE
+498,Invesco Pennsylvania Value Municipal Income Trust,VPV,NYSE,IDR,8,FALSE
+499,Credit Suisse AG,USOI,NASDAQ,RUB,67,FALSE
+500,"Flex Pharma, Inc.",FLKS,NASDAQ,IDR,14,FALSE
+501,"ABIOMED, Inc.",ABMD,NASDAQ,SEK,80,FALSE
+502,Eaton Vance Tax-Advantaged Global Dividend Income Fund,ETG,NYSE,KES,52,FALSE
+503,State Street Corporation,STT^D,NYSE,YER,73,FALSE
+504,CF Corporation,CFCOW,NASDAQ,RUB,17,FALSE
+505,"Barrett Business Services, Inc.",BBSI,NASDAQ,EUR,29,FALSE
+506,BOK Financial Corporation,BOKFL,NASDAQ,RUB,90,FALSE
+507,"C.H. Robinson Worldwide, Inc.",CHRW,NASDAQ,RUB,22,FALSE
+508,RXi Pharmaceuticals Corporation,RXII,NASDAQ,IDR,43,FALSE
+509,PPlus Trust,PYT,NYSE,HRK,64,FALSE
+510,Eastern Company (The),EML,NASDAQ,IDR,25,FALSE
+511,Rice Midstream Partners LP,RMP,NYSE,EUR,14,FALSE
+512,"Spartan Motors, Inc.",SPAR,NASDAQ,THB,6,FALSE
+513,BlackRock Investment Quality Municipal Trust Inc. (The),BKN,NYSE,SEK,48,FALSE
+514,"Independence Contract Drilling, Inc.",ICD,NYSE,MXN,73,FALSE
+515,Embotelladora Andina S.A.,AKO.A,NYSE,EUR,16,FALSE
+516,Banco De Chile,BCH,NYSE,CNY,2,FALSE
+517,WisdomTree China ex-State-Owned Enterprises Fund,CXSE,NASDAQ,COP,12,FALSE
+518,"Hudson Technologies, Inc.",HDSN,NASDAQ,EUR,16,FALSE
+519,Ford Motor Company,F,NYSE,PHP,93,FALSE
+520,iShares S&P/Citigroup 1-3 Year International Treasury Bond Fun,ISHG,NASDAQ,CNY,6,FALSE
+521,"Rexford Industrial Realty, Inc.",REXR^A,NYSE,USD,1,FALSE
+522,NQ Mobile Inc.,NQ,NYSE,CNY,37,FALSE
+523,"Opexa Therapeutics, Inc.",OPXAW,NASDAQ,LTL,5,FALSE
+524,Hershey Company (The),HSY,NYSE,CNY,57,FALSE
+525,ChromaDex Corporation,CDXC,NASDAQ,MKD,19,FALSE
+526,"Zafgen, Inc.",ZFGN,NASDAQ,CUP,8,FALSE
+527,First Trust RBA Quality Income ETF,QINC,NASDAQ,IDR,65,FALSE
+528,Zions Bancorporation,ZB^A,NYSE,RUB,34,FALSE
+529,"NeuroMetrix, Inc.",NURO,NASDAQ,CAD,10,FALSE
+530,"Natural Grocers by Vitamin Cottage, Inc.",NGVC,NYSE,CNY,39,FALSE
+531,BlackBerry Limited,BBRY,NASDAQ,ZMW,70,FALSE
+532,Silicon Motion Technology Corporation,SIMO,NASDAQ,PHP,34,FALSE
+533,"Chart Industries, Inc.",GTLS,NASDAQ,THB,61,FALSE
+534,Monmouth Real Estate Investment Corporation,MNR,NYSE,EUR,7,FALSE
+535,"Rennova Health, Inc.",RNVA,NASDAQ,CUP,46,FALSE
+536,The Intergroup Corporation,INTG,NASDAQ,THB,24,FALSE
+537,Fifth Third Bancorp,FITB,NASDAQ,CNY,23,FALSE
+538,"HCI Group, Inc.",HCI,NYSE,CNY,70,FALSE
+539,Cathay General Bancorp,CATYW,NASDAQ,RUB,42,FALSE
+540,"Delek Logistics Partners, L.P.",DKL,NYSE,EUR,32,FALSE
+541,Guggenheim Enhanced Equity Income Fund,GPM,NYSE,CNY,69,FALSE
+542,Public Storage,PSA^F,NYSE,HRK,16,FALSE
+543,ObsEva SA,OBSV,NASDAQ,GBP,100,FALSE
+544,"PC Connection, Inc.",CNXN,NASDAQ,MUR,85,FALSE
+545,"U.S. Physical Therapy, Inc.",USPH,NYSE,LTL,52,FALSE
+546,ChromaDex Corporation,CDXC,NASDAQ,BRL,21,FALSE
+547,"USA Technologies, Inc.",USAT,NASDAQ,AZN,73,FALSE
+548,"Meta Financial Group, Inc.",CASH,NASDAQ,PHP,53,FALSE
+549,ManpowerGroup,MAN,NYSE,PLN,20,FALSE
+550,First Financial Bancorp.,FFBCW,NASDAQ,RUB,34,FALSE
+551,"CBL & Associates Properties, Inc.",CBL^D,NYSE,RUB,17,FALSE
+552,The First of Long Island Corporation,FLIC,NASDAQ,IDR,60,FALSE
+553,Franco-Nevada Corporation,FNV,NYSE,IDR,17,FALSE
+554,"NII Holdings, Inc.",NIHD,NASDAQ,CNY,69,FALSE
+555,"TESARO, Inc.",TSRO,NASDAQ,BRL,4,FALSE
+556,KB Financial Group Inc,KB,NYSE,CNY,10,FALSE
+557,"Chimerix, Inc.",CMRX,NASDAQ,NOK,82,FALSE
+558,Coty Inc.,COTY,NYSE,JPY,82,FALSE
+559,Babcock,BW,NYSE,CAD,62,FALSE
+560,ClearBridge Large Cap Growth ESG ETF,LRGE,NASDAQ,WST,80,FALSE
+561,VictoryShares US Large Cap High Div Volatility Wtd ETF,CDL,NASDAQ,ILS,34,FALSE
+562,"Smith & Nephew SNATS, Inc.",SNN,NYSE,EUR,23,FALSE
+563,Blackrock New York Municipal Bond Trust,BQH,NYSE,EUR,77,FALSE
+564,Nuveen Municipal High Income Opportunity Fund,NMZ,NYSE,SEK,52,FALSE
+565,Nuveen Massachusetts Municipal Income Fund,NMT,NYSE,PHP,79,FALSE
+566,Universal Display Corporation,OLED,NASDAQ,CNY,18,FALSE
+567,"Willbros Group, Inc.",WG,NYSE,PEN,42,FALSE
+568,Grupo Supervielle S.A.,SUPV,NYSE,CAD,11,FALSE
+569,Cementos Pacasmayo S.A.A.,CPAC,NYSE,USD,96,FALSE
+570,"SenesTech, Inc.",SNES,NASDAQ,CNY,7,FALSE
+571,"Fortune Brands Home & Security, Inc.",FBHS,NYSE,CZK,88,FALSE
+572,"Siliconware Precision Industries Company, Ltd.",SPIL,NASDAQ,THB,57,FALSE
+573,Insulet Corporation,PODD,NASDAQ,CNY,77,FALSE
+574,"Dupont Fabros Technology, Inc.",DFT^C,NYSE,HNL,12,FALSE
+575,Flaherty & Crumrine Preferred Income Opportunity Fund Inc,PFO,NYSE,CNY,23,FALSE
+576,Ocean Rig UDW Inc.,ORIG,NASDAQ,RUB,12,FALSE
+577,BHP Billiton plc,BBL,NYSE,CNY,15,FALSE
+578,BlackRock Income Investment Quality Trust,BAF,NYSE,CNY,95,FALSE
+579,"Prudential Financial, Inc.",PRH,NYSE,IDR,59,FALSE
+580,DTE Energy Company,DTQ,NYSE,PLN,90,FALSE
+581,Invesco Municipal Opportunity Trust,VMO,NYSE,RUB,11,FALSE
+582,Vident Core US Equity ETF,VUSE,NASDAQ,GNF,21,FALSE
+583,STRATS Trust,GJH,NYSE,UAH,59,FALSE
+584,"Dicerna Pharmaceuticals, Inc.",DRNA,NASDAQ,CNY,61,FALSE
+585,"Benchmark Electronics, Inc.",BHE,NYSE,ILS,65,FALSE
+586,"RTI Surgical, Inc.",RTIX,NASDAQ,EUR,76,FALSE
+587,Voya Asia Pacific High Dividend Equity Income Fund,IAE,NYSE,CNY,90,FALSE
+588,"Kinder Morgan, Inc.",KMI,NYSE,IDR,13,FALSE
+589,"Patrick Industries, Inc.",PATK,NASDAQ,MGA,91,FALSE
+590,"Team, Inc.",TISI,NYSE,EUR,66,FALSE
+591,Rayonier Advanced Materials Inc.,RYAM,NYSE,ZMW,10,FALSE
+592,Principal Price Setters Index ETF,PSET,NASDAQ,CNY,27,FALSE
+593,AGNC Investment Corp.,AGNCP,NASDAQ,BRL,61,FALSE
+594,"On Deck Capital, Inc.",ONDK,NYSE,IDR,41,FALSE
+595,"Colony NorthStar, Inc.",CLNS^I,NYSE,PLN,41,FALSE
+596,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,CDC,NASDAQ,IDR,3,FALSE
+597,PennantPark Floating Rate Capital Ltd.,PFLT,NASDAQ,LAK,57,FALSE
+598,Nabriva Therapeutics AG,NBRV,NASDAQ,RUB,4,FALSE
+599,Blackrock New York Municipal Bond Trust,BQH,NYSE,USD,17,FALSE
+600,Adtalem Global Education Inc.,ATGE,NYSE,THB,57,FALSE
+601,"Liberty Tax, Inc.",TAX,NASDAQ,CNY,22,FALSE
+602,"WesBanco, Inc.",WSBC,NASDAQ,VEF,36,FALSE
+603,"AmTrust Financial Services, Inc.",AFSI^C,NYSE,CNY,52,FALSE
+604,"Allied Motion Technologies, Inc.",AMOT,NASDAQ,IDR,68,FALSE
+605,First American Corporation (The),FAF,NYSE,UAH,41,FALSE
+606,Medigus Ltd.,MDGS,NASDAQ,IDR,17,FALSE
+607,Ultra Petroleum Corp.,UPL,NASDAQ,CNY,4,FALSE
+608,"Amyris, Inc.",AMRS,NASDAQ,CNY,5,FALSE
+609,"ClubCorp Holdings, Inc.",MYCC,NYSE,EUR,3,FALSE
+610,Ares Management L.P.,ARES,NYSE,MXN,32,FALSE
+611,American Tower Corporation (REIT),AMT,NYSE,AOA,50,FALSE
+612,BlackRock Multi-Sector Income Trust,BIT,NYSE,ALL,27,FALSE
+613,"Evertec, Inc.",EVTC,NYSE,BRL,50,FALSE
+614,"Prudential Financial, Inc.",PRH,NYSE,AFN,21,FALSE
+615,"Yatra Online, Inc.",YTRA,NASDAQ,EUR,40,FALSE
+616,"Golden Entertainment, Inc.",GDEN,NASDAQ,IDR,63,FALSE
+617,"Atlantic Capital Bancshares, Inc.",ACBI,NASDAQ,COP,54,FALSE
+618,"American Electric Technologies, Inc.",AETI,NASDAQ,CNY,79,FALSE
+619,"Global Ship Lease, Inc.",GSL^B,NYSE,RUB,87,FALSE
+620,Village Bank and Trust Financial Corp.,VBFC,NASDAQ,THB,93,FALSE
+621,"AxoGen, Inc.",AXGN,NASDAQ,PHP,63,FALSE
+622,Enerplus Corporation,ERF,NYSE,BYR,73,FALSE
+623,"LGI Homes, Inc.",LGIH,NASDAQ,CNY,95,FALSE
+624,Sohu.com Inc.,SOHU,NASDAQ,RUB,81,FALSE
+625,Transdigm Group Incorporated,TDG,NYSE,XAF,54,FALSE
+626,R1 RCM Inc.,RCM,NASDAQ,THB,27,FALSE
+627,"Telephone and Data Systems, Inc.",TDI,NYSE,CNY,14,FALSE
+628,"BCE, Inc.",BCE,NYSE,IDR,86,FALSE
+629,Westpac Banking Corporation,WBK,NYSE,IDR,97,FALSE
+630,"SunOpta, Inc.",STKL,NASDAQ,CAD,71,FALSE
+631,"American Realty Investors, Inc.",ARL,NYSE,BRL,54,FALSE
+632,Nuveen Insured New York Select Tax-Free Income Portfolio,NXN,NYSE,NIO,64,FALSE
+633,Smart,SFS,NYSE,CNY,1,FALSE
+634,"Insight Enterprises, Inc.",NSIT,NASDAQ,IDR,1,FALSE
+635,"Safeguard Scientifics, Inc.",SFE,NYSE,PHP,68,FALSE
+636,iShares MSCI ACWI ex US Index Fund,ACWX,NASDAQ,JOD,3,FALSE
+637,Nabors Industries Ltd.,NBR,NYSE,CNY,46,FALSE
+638,Blackrock Global,BGT,NYSE,PHP,51,FALSE
+639,Assured Guaranty Ltd.,AGO^E,NYSE,RUB,63,FALSE
+640,"Intersections, Inc.",INTX,NASDAQ,CNY,100,FALSE
+641,Charter Financial Corp.,CHFN,NASDAQ,PYG,45,FALSE
+642,"United Parcel Service, Inc.",UPS,NYSE,DOP,84,FALSE
+643,Nuveen Enhanced Municipal Value Fund,NEV,NYSE,KZT,89,FALSE
+644,"Maxim Integrated Products, Inc.",MXIM,NASDAQ,SEK,51,FALSE
+645,Westinghouse Air Brake Technologies Corporation,WAB,NYSE,IDR,61,FALSE
+646,Gladstone Commercial Corporation,GOOD,NASDAQ,IDR,61,FALSE
+647,"Blackrock MuniAssets Fund, Inc.",MUA,NYSE,MUR,90,FALSE
+648,Dell Technologies Inc.,DVMT,NYSE,EUR,47,FALSE
+649,Moog Inc.,MOG.A,NYSE,EUR,82,FALSE
+650,Hoegh LNG Partners LP,HMLP,NYSE,YER,100,FALSE
+651,L.S. Starrett Company (The),SCX,NYSE,IDR,10,FALSE
+652,LendingClub Corporation,LC,NYSE,IQD,48,FALSE
+653,Las Vegas Sands Corp.,LVS,NYSE,MAD,75,FALSE
+654,"Gevo, Inc.",GEVO,NASDAQ,ARS,61,FALSE
+655,"Western Refining Logistics, LP",WNRL,NYSE,BRL,83,FALSE
+656,"Calumet Specialty Products Partners, L.P.",CLMT,NASDAQ,MXN,32,FALSE
+657,Teledyne Technologies Incorporated,TDY,NYSE,IDR,43,FALSE
+658,The Intergroup Corporation,INTG,NASDAQ,RUB,94,FALSE
+659,"First Citizens BancShares, Inc.",FCNCA,NASDAQ,TND,14,FALSE
+660,AXT Inc,AXTI,NASDAQ,ILS,32,FALSE
+661,"Old Second Bancorp, Inc.",OSBCP,NASDAQ,USD,61,FALSE
+662,"Myriad Genetics, Inc.",MYGN,NASDAQ,VEF,80,FALSE
+663,"SINOPEC Shangai Petrochemical Company, Ltd.",SHI,NYSE,CNY,2,FALSE
+664,"Columbia Banking System, Inc.",COLB,NASDAQ,PHP,20,FALSE
+665,InfoSonics Corp,IFON,NASDAQ,UAH,13,FALSE
+666,Agnico Eagle Mines Limited,AEM,NYSE,THB,64,FALSE
+667,POSCO,PKX,NYSE,UAH,25,FALSE
+668,AmeriServ Financial Inc.,ASRVP,NASDAQ,THB,97,FALSE
+669,"General American Investors, Inc.",GAM,NYSE,EUR,18,FALSE
+670,Navient Corporation,ISM,NASDAQ,CNY,90,FALSE
+671,Prima BioMed Ltd,PBMD,NASDAQ,IDR,88,FALSE
+672,"QEP Resources, Inc.",QEP,NYSE,KRW,99,FALSE
+673,Nuveen Intermediate Duration Municipal Term Fund,NID,NYSE,HRK,90,FALSE
+674,Evogene Ltd.,EVGN,NASDAQ,CNY,63,FALSE
+675,Graphic Packaging Holding Company,GPK,NYSE,EUR,15,FALSE
+676,"BancorpSouth, Inc.",BXS,NYSE,CNY,23,FALSE
+677,Bank Of Montreal,BMO,NYSE,EUR,35,FALSE
+678,Research Frontiers Incorporated,REFR,NASDAQ,ARS,12,FALSE
+679,"Castlight Health, inc.",CSLT,NYSE,EUR,63,FALSE
+680,Global X Health & Wellness Thematic ETF,BFIT,NASDAQ,ZWL,65,FALSE
+681,Limoneira Co,LMNR,NASDAQ,EUR,87,FALSE
+682,Comp En De Mn Cemig ADS,CIG,NYSE,CNY,85,FALSE
+683,PowerShares S&P SmallCap Industrials Portfolio,PSCI,NASDAQ,EUR,50,FALSE
+684,"Delaware Investments Dividend & Income Fund, Inc.",DDF,NYSE,MNT,84,FALSE
+685,Statoil ASA,STO,NYSE,CNY,72,FALSE
+686,"CNO Financial Group, Inc.",CNO,NYSE,RUB,97,FALSE
+687,"Customers Bancorp, Inc",CUBI^F,NYSE,PHP,60,FALSE
+688,Essendant Inc.,ESND,NASDAQ,PEN,98,FALSE
+689,Elmira Savings Bank NY (The),ESBK,NASDAQ,BRL,30,FALSE
+690,"Plug Power, Inc.",PLUG,NASDAQ,ARS,49,FALSE
+691,PowerShares S&P SmallCap Information Technology Portfolio,PSCT,NASDAQ,IDR,9,FALSE
+692,Netshoes (Cayman) Limited,NETS,NYSE,ZAR,44,FALSE
+693,"South Jersey Industries, Inc.",SJI,NYSE,SEK,93,FALSE
+694,"Summit Hotel Properties, Inc.",INN,NYSE,IDR,68,FALSE
+695,"Rexford Industrial Realty, Inc.",REXR^A,NYSE,COP,8,FALSE
+696,"Neenah Paper, Inc.",NP,NYSE,RUB,16,FALSE
+697,"Opko Health, Inc.",OPK,NASDAQ,PHP,12,FALSE
+698,ChromaDex Corporation,CDXC,NASDAQ,NGN,79,FALSE
+699,"Arrow Electronics, Inc.",ARW,NYSE,CNY,81,FALSE
+700,Eaton Vance Enhanced Equity Income Fund II,EOS,NYSE,IDR,2,FALSE
+701,"Beasley Broadcast Group, Inc.",BBGI,NASDAQ,CNY,8,FALSE
+702,Bioblast Pharma Ltd.,ORPN,NASDAQ,MXN,49,FALSE
+703,KeyCorp,KEY^I,NYSE,CNY,84,FALSE
+704,Cellect Biotechnology Ltd.,APOP,NASDAQ,IDR,16,FALSE
+705,"Orion Group Holdings, Inc.",ORN,NYSE,ARS,99,FALSE
+706,Trimble Inc.,TRMB,NASDAQ,EUR,39,FALSE
+707,"Gabelli Equity Trust, Inc. (The)",GAB^D,NYSE,IDR,35,FALSE
+708,Healthcare Realty Trust Incorporated,HR,NYSE,CAD,68,FALSE
+709,Royal Bank Of Canada,RY,NYSE,VEF,98,FALSE
+710,iShares MSCI EAFE ESG Optimized ETF,ESGD,NASDAQ,IDR,4,FALSE
+711,Blackrock California Municipal 2018 Term Trust,BJZ,NYSE,PHP,70,FALSE
+712,Advent Claymore Convertible Securities and Income Fund II,AGC,NYSE,UGX,34,FALSE
+713,Synchrony Financial,SYF,NYSE,IDR,53,FALSE
+714,"InnerWorkings, Inc.",INWK,NASDAQ,IDR,69,FALSE
+715,Comerica Incorporated,CMA.WS,NYSE,CZK,47,FALSE
+716,Hersha Hospitality Trust,HT^E,NYSE,EUR,100,FALSE
+717,VictoryShares Emerging Market Volatility Wtd ETF,CEZ,NASDAQ,CNY,82,FALSE
+718,SeaSpine Holdings Corporation,SPNE,NASDAQ,HNL,10,FALSE
+719,"Western Asset High Income Opportunity Fund, Inc.",HIO,NYSE,IDR,36,FALSE
+720,"SB Financial Group, Inc.",SBFGP,NASDAQ,SEK,12,FALSE
+721,Signet Jewelers Limited,SIG,NYSE,IDR,86,FALSE
+722,Kadant Inc,KAI,NYSE,KRW,85,FALSE
+723,"Walgreens Boots Alliance, Inc.",WBA,NASDAQ,PLN,29,FALSE
+724,"Tallgrass Energy GP, LP",TEGP,NYSE,THB,79,FALSE
+725,"Sunstone Hotel Investors, Inc.",SHO,NYSE,RUB,31,FALSE
+726,"AAC Holdings, Inc.",AAC,NYSE,CNY,75,FALSE
+727,PartnerRe Ltd.,PRE^F,NYSE,AFN,85,FALSE
+728,PowerShares KBW High Dividend Yield Financial Portfolio,KBWD,NASDAQ,EUR,97,FALSE
+729,"Ulta Beauty, Inc.",ULTA,NASDAQ,CNY,27,FALSE
+730,Boulevard Acquisition Corp. II,BLVDU,NASDAQ,BYR,22,FALSE
+731,"Pacira Pharmaceuticals, Inc.",PCRX,NASDAQ,HRK,53,FALSE
+732,Wins Finance Holdings Inc.,WINS,NASDAQ,UGX,86,FALSE
+733,"Green Plains, Inc.",GPRE,NASDAQ,PHP,35,FALSE
+734,"Ellie Mae, Inc.",ELLI,NYSE,UAH,2,FALSE
+735,Education Realty Trust Inc.,EDR,NYSE,SEK,8,FALSE
+736,Trimble Inc.,TRMB,NASDAQ,EUR,23,FALSE
+737,"Senomyx, Inc.",SNMX,NASDAQ,CNY,19,FALSE
+738,"Itron, Inc.",ITRI,NASDAQ,CNY,65,FALSE
+739,"Greenhill & Co., Inc.",GHL,NYSE,CNY,28,FALSE
+740,Potbelly Corporation,PBPB,NASDAQ,PHP,97,FALSE
+741,Galectin Therapeutics Inc.,GALT,NASDAQ,MAD,22,FALSE
+742,"Salisbury Bancorp, Inc.",SAL,NASDAQ,EUR,19,FALSE
+743,Global Indemnity Limited,GBLIL,NASDAQ,IDR,6,FALSE
+744,IDT Corporation,IDT,NYSE,CNY,43,FALSE
+745,Nuveen All Cap Energy MLP Opportunities Fund,JMLP,NYSE,IDR,34,FALSE
+746,"SunCoke Energy Partners, L.P.",SXCP,NYSE,CNY,54,FALSE
+747,Mid Penn Bancorp,MPB,NASDAQ,BRL,17,FALSE
+748,Vical Incorporated,VICL,NASDAQ,EUR,90,FALSE
+749,"PFSweb, Inc.",PFSW,NASDAQ,CNY,19,FALSE
+750,"Kona Grill, Inc.",KONA,NASDAQ,PHP,41,FALSE
+751,"Blue Buffalo Pet Products, Inc.",BUFF,NASDAQ,IDR,70,FALSE
+752,Scorpio Bulkers Inc.,SLTB,NYSE,EUR,19,FALSE
+753,"CBIZ, Inc.",CBZ,NYSE,BGN,37,FALSE
+754,"Aemetis, Inc",AMTX,NASDAQ,CNY,93,FALSE
+755,Fulton Financial Corporation,FULT,NASDAQ,CNY,75,FALSE
+756,"Altimmune, Inc.",ALT,NASDAQ,CNY,21,FALSE
+757,Eaton Vance Tax-Managed Buy-Write Income Fund,ETB,NYSE,RUB,56,FALSE
+758,iPass Inc.,IPAS,NASDAQ,CNY,10,FALSE
+759,CECO Environmental Corp.,CECE,NASDAQ,BRL,74,FALSE
+760,Denbury Resources Inc.,DNR,NYSE,CNY,13,FALSE
+761,Potash Corporation of Saskatchewan Inc.,POT,NYSE,IDR,64,FALSE
+762,PowerShares FTSE International Low Beta Equal Weight Portfolio,IDLB,NASDAQ,CNY,94,FALSE
+763,FMC Corporation,FMC,NYSE,EUR,67,FALSE
+764,REGENXBIO Inc.,RGNX,NASDAQ,EUR,47,FALSE
+765,Special Opportunities Fund Inc.,SPE,NYSE,PLN,71,FALSE
+766,"American Railcar Industries, Inc.",ARII,NASDAQ,SEK,81,FALSE
+767,Gafisa SA,GFA,NYSE,PHP,9,FALSE
+768,"Viking Therapeutics, Inc.",VKTXW,NASDAQ,COP,65,FALSE
+769,"Dicerna Pharmaceuticals, Inc.",DRNA,NASDAQ,BOB,45,FALSE
+770,OceanFirst Financial Corp.,OCFC,NASDAQ,JPY,52,FALSE
+771,"Dollar Tree, Inc.",DLTR,NASDAQ,CNY,68,FALSE
+772,"Validus Holdings, Ltd.",VR,NYSE,MGA,91,FALSE
+773,"Mondelez International, Inc.",MDLZ,NASDAQ,CAD,50,FALSE
+774,Pacific Mercantile Bancorp,PMBC,NASDAQ,RUB,90,FALSE
+775,Drive Shack Inc.,DS,NYSE,RUB,14,FALSE
+776,"Keryx Biopharmaceuticals, Inc.",KERX,NASDAQ,THB,73,FALSE
+777,"Chanticleer Holdings, Inc.",HOTR,NASDAQ,IDR,95,FALSE
+778,"Atwood Oceanics, Inc.",ATW,NYSE,IDR,91,FALSE
+779,Valero Energy Partners LP,VLP,NYSE,PHP,76,FALSE
+780,"SPX FLOW, Inc.",FLOW,NYSE,EUR,73,FALSE
+781,"Citi Trends, Inc.",CTRN,NASDAQ,SYP,41,FALSE
+782,"BMC Stock Holdings, Inc.",BMCH,NASDAQ,RUB,66,FALSE
+783,Leju Holdings Limited,LEJU,NYSE,ILS,70,FALSE
+784,PowerShares DWA Tactical Sector Rotation Portfolio,DWTR,NASDAQ,EUR,18,FALSE
+785,"Ignyta, Inc.",RXDX,NASDAQ,IDR,55,FALSE
+786,MB Financial Inc.,MBFIP,NASDAQ,BRL,22,FALSE
+787,"Fauquier Bankshares, Inc.",FBSS,NASDAQ,XAF,30,FALSE
+788,"PrivateBancorp, Inc.",PVTB,NASDAQ,PEN,18,FALSE
+789,Educational Development Corporation,EDUC,NASDAQ,NGN,36,FALSE
+790,Regal Entertainment Group,RGC,NYSE,YER,21,FALSE
+791,"Hawkins, Inc.",HWKN,NASDAQ,SEK,53,FALSE
+792,"Golden Entertainment, Inc.",GDEN,NASDAQ,CNY,55,FALSE
+793,"America Movil, S.A.B. de C.V.",AMX,NYSE,EUR,74,FALSE
+794,Entertainment Gaming Asia Incorporated,EGT,NASDAQ,IDR,98,FALSE
+795,"ClearOne, Inc.",CLRO,NASDAQ,EUR,49,FALSE
+796,"TSR, Inc.",TSRI,NASDAQ,PLN,6,FALSE
+797,Inpixon ,INPX,NASDAQ,PHP,33,FALSE
+798,"Achaogen, Inc.",AKAO,NASDAQ,CNY,85,FALSE
+799,"Span-America Medical Systems, Inc.",SPAN,NASDAQ,CNY,43,FALSE
+800,"Deswell Industries, Inc.",DSWL,NASDAQ,CNY,36,FALSE
+801,Liberty Interactive Corporation,QVCA,NASDAQ,BGN,39,FALSE
+802,Allstate Corporation (The),ALL^E,NYSE,BRL,8,FALSE
+803,VEREIT Inc.,VER^F,NYSE,EUR,17,FALSE
+804,Fabrinet,FN,NYSE,EUR,70,FALSE
+805,Bank of Hawaii Corporation,BOH,NYSE,CNY,78,FALSE
+806,"Hologic, Inc.",HOLX,NASDAQ,IDR,1,FALSE
+807,"Nexeo Solutions, Inc.",NXEOU,NASDAQ,CAD,93,FALSE
+808,Oshkosh Corporation,OSK,NYSE,EUR,94,FALSE
+809,"Global Ship Lease, Inc.",GSL,NYSE,EUR,35,FALSE
+810,Molson Coors Brewing  Company,TAP,NYSE,BRL,31,FALSE
+811,"Cypress Energy Partners, L.P.",CELP,NYSE,IDR,14,FALSE
+812,Golden Ocean Group Limited,GOGL,NASDAQ,CNY,53,FALSE
+813,Triangle Capital Corporation,TCCA,NYSE,EUR,33,FALSE
+814,Booz Allen Hamilton Holding Corporation,BAH,NYSE,RUB,49,FALSE
+815,ON Semiconductor Corporation,ON,NASDAQ,ZAR,20,FALSE
+816,"EV Energy Partners, L.P.",EVEP,NASDAQ,TZS,20,FALSE
+817,AC Immune SA,ACIU,NASDAQ,UAH,51,FALSE
+818,"Boston Private Financial Holdings, Inc.",BPFHW,NASDAQ,COP,14,FALSE
+819,Neovasc Inc.,NVCN,NASDAQ,CNY,53,FALSE
+820,"TESARO, Inc.",TSRO,NASDAQ,GYD,17,FALSE
+821,National Retail Properties,NNN^E,NYSE,BRL,19,FALSE
+822,Duke Energy Corporation,DUK,NYSE,RUB,48,FALSE
+823,AmeriServ Financial Inc.,ASRVP,NASDAQ,CNY,18,FALSE
+824,CymaBay Therapeutics Inc.,CBAY,NASDAQ,IQD,77,FALSE
+825,Blackrock Health Sciences Trust,BME,NYSE,UAH,24,FALSE
+826,"Charles River Laboratories International, Inc.",CRL,NYSE,PLN,87,FALSE
+827,"Quintiles IMS Holdings, Inc.",Q,NYSE,IRR,89,FALSE
+828,Midatech Pharma PLC,MTP,NASDAQ,KES,2,FALSE
+829,"Huaneng Power International, Inc.",HNP,NYSE,CNY,99,FALSE
+830,"Enova International, Inc.",ENVA,NYSE,BRL,50,FALSE
+831,Hutchison China MediTech Limited,HCM,NASDAQ,IDR,91,FALSE
+832,MFC Bancorp Ltd.,MFCB,NYSE,IDR,7,FALSE
+833,"Watsco, Inc.",WSO,NYSE,LKR,35,FALSE
+834,"FTD Companies, Inc.",FTD,NASDAQ,EUR,26,FALSE
+835,First Trust Nasdaq Semiconductor ETF,FTXL,NASDAQ,KPW,97,FALSE
+836,"IF Bancorp, Inc.",IROQ,NASDAQ,PHP,78,FALSE
+837,"Transcat, Inc.",TRNS,NASDAQ,IDR,83,FALSE
+838,"Aerojet Rocketdyne Holdings, Inc. ",AJRD,NYSE,BTN,83,FALSE
+839,Milacron Holdings Corp.,MCRN,NYSE,EGP,69,FALSE
+840,"ING Group, N.V.",ISP,NYSE,CNY,67,FALSE
+841,CAE Inc,CAE,NYSE,THB,58,FALSE
+842,The Cushing MLP Total Return Fund,SRV,NYSE,RUB,58,FALSE
+843,Nuveen Energy MLP Total Return Fund,JMF,NYSE,EUR,25,FALSE
+844,"Westbury Bancorp, Inc.",WBB,NASDAQ,PHP,39,FALSE
+845,Principal Healthcare Innovators Index ETF,BTEC,NASDAQ,EUR,70,FALSE
+846,"Blackrock MuniAssets Fund, Inc.",MUA,NYSE,UAH,75,FALSE
+847,The RMR Group Inc.,RMR,NASDAQ,CNY,64,FALSE
+848,First Trust Switzerland AlphaDEX Fund,FSZ,NASDAQ,NGN,21,FALSE
+849,"Accelerate Diagnostics, Inc.",AXDX,NASDAQ,CNY,11,FALSE
+850,iShares Asia 50 ETF,AIA,NASDAQ,EUR,28,FALSE
+851,"Cotiviti Holdings, Inc.",COTV,NYSE,NGN,77,FALSE
+852,Rogers Corporation,ROG,NYSE,JPY,72,FALSE
+853,BlackRock Energy and Resources Trust,BGR,NYSE,CNY,62,FALSE
+854,"Blackrock MuniYield Fund, Inc.",MYD,NYSE,USD,1,FALSE
+855,"Snyder&#39;s-Lance, Inc.",LNCE,NASDAQ,JPY,5,FALSE
+856,Cheetah Mobile Inc.,CMCM,NYSE,CNY,85,FALSE
+857,"Mellanox Technologies, Ltd.",MLNX,NASDAQ,EUR,23,FALSE
+858,"CBOE Holdings, Inc.",CBOE,NASDAQ,PHP,42,FALSE
+859,"Bojangles&#39;, Inc.",BOJA,NASDAQ,CNY,91,FALSE
+860,Liberty Media Corporation,FWONK,NASDAQ,BRL,76,FALSE
+861,Public Storage,PSA^B,NYSE,IDR,17,FALSE
+862,"Raymond James Financial, Inc.",RJF,NYSE,VND,16,FALSE
+863,Ericsson,ERIC,NASDAQ,RUB,69,FALSE
+864,Seacoast Banking Corporation of Florida,SBCF,NASDAQ,NOK,96,FALSE
+865,VEREIT Inc.,VER,NYSE,SEK,62,FALSE
+866,Arthur J. Gallagher & Co.,AJG,NYSE,CNY,71,FALSE
+867,Internet Gold Golden Lines Ltd.,IGLD,NASDAQ,IDR,49,FALSE
+868,Independence Holding Company,IHC,NYSE,IDR,41,FALSE
+869,"American Financial Group, Inc.",AFA,NYSE,SLL,46,FALSE
+870,Hersha Hospitality Trust,HT^C,NYSE,RUB,25,FALSE
+871,"Quanta Services, Inc.",PWR,NYSE,SEK,96,FALSE
+872,"HV Bancorp, Inc.",HVBC,NASDAQ,IDR,33,FALSE
+873,Xactly Corporation,XTLY,NYSE,YER,16,FALSE
+874,"Mizuho Financial Group, Inc.",MFG,NYSE,GBP,51,FALSE
+875,"Heartland Financial USA, Inc.",HTLF,NASDAQ,THB,58,FALSE
+876,Bank Of New York Mellon Corporation (The),BK,NYSE,EUR,68,FALSE
+877,Acuity Brands Inc,AYI,NYSE,KZT,55,FALSE
+878,KBS Fashion Group Limited,KBSF,NASDAQ,PEN,48,FALSE
+879,Moelis & Company,MC,NYSE,CZK,51,FALSE
+880,KKR & Co. L.P.,KKR^B,NYSE,RUB,72,FALSE
+881,West Corporation,WSTC,NASDAQ,IDR,11,FALSE
+882,"United Bancorp, Inc.",UBCP,NASDAQ,COP,24,FALSE
+883,Luxfer Holdings PLC,LXFR,NYSE,IDR,15,FALSE
+884,"Veracyte, Inc.",VCYT,NASDAQ,BIF,82,FALSE
+885,National Holdings Corporation,NHLDW,NASDAQ,RSD,59,FALSE
+886,"Banco Santander, S.A.",SAN,NYSE,BRL,74,FALSE
+887,Balchem Corporation,BCPC,NASDAQ,CZK,8,FALSE
+888,"TechTarget, Inc.",TTGT,NASDAQ,SEK,5,FALSE
+889,Brandywine Realty Trust,BDN,NYSE,BRL,60,FALSE
+890,Taiwan Semiconductor Manufacturing Company Ltd.,TSM,NYSE,CNY,55,FALSE
+891,"Leggett & Platt, Incorporated",LEG,NYSE,CNY,30,FALSE
+892,Astoria Financial Corporation,AF^C,NYSE,CNY,32,FALSE
+893,Albemarle Corporation,ALB,NYSE,DKK,83,FALSE
+894,First Trust Nasdaq Semiconductor ETF,FTXL,NASDAQ,USD,79,FALSE
+895,VelocityShares 3x Inverse Silver ETN,DSLV,NASDAQ,PYG,94,FALSE
+896,Zoetis Inc.,ZTS,NYSE,BRL,67,FALSE
+897,GasLog Partners LP,GLOP,NYSE,PHP,1,FALSE
+898,"Banc of California, Inc.",BANC^D,NYSE,EUR,45,FALSE
+899,"AutoNation, Inc.",AN,NYSE,EUR,39,FALSE
+900,Diodes Incorporated,DIOD,NASDAQ,EUR,4,FALSE
+901,Pioneer High Income Trust,PHT,NYSE,CNY,24,FALSE
+902,"Automatic Data Processing, Inc.",ADP,NASDAQ,MKD,6,FALSE
+903,"Advanced Drainage Systems, Inc.",WMS,NYSE,JPY,20,FALSE
+904,Evogene Ltd.,EVGN,NASDAQ,CNY,26,FALSE
+905,Boeing Company (The),BA,NYSE,PLN,92,FALSE
+906,"Biostar Pharmaceuticals, Inc.",BSPM,NASDAQ,CNY,80,FALSE
+907,"SunTrust Banks, Inc.",STI.WS.A,NYSE,CAD,25,FALSE
+908,"Verisk Analytics, Inc.",VRSK,NASDAQ,SEK,11,FALSE
+909,First Trust Large Cap Core AlphaDEX Fund,FEX,NASDAQ,AZN,86,FALSE
+910,Crestwood Equity Partners LP,CEQP,NYSE,UAH,35,FALSE
+911,"Patterson Companies, Inc.",PDCO,NASDAQ,CNY,76,FALSE
+912,"PNC Financial Services Group, Inc. (The)",PNC.WS,NYSE,EUR,33,FALSE
+913,"NexPoint Residential Trust, Inc.",NXRT,NYSE,VND,33,FALSE
+914,Viacom Inc.,VIAB,NASDAQ,EUR,70,FALSE
+915,First Trust NASDAQ Cybersecurity ETF,CIBR,NASDAQ,IDR,81,FALSE
+916,United Community Bancorp,UCBA,NASDAQ,PHP,60,FALSE
+917,Unisys Corporation,UIS,NYSE,CNY,84,FALSE
+918,"GlassBridge Enterprises, Inc.",GLA,NYSE,RUB,100,FALSE
+919,"AmTrust Financial Services, Inc.",AFSI^F,NYSE,HRK,14,FALSE
+920,KLX Inc.,KLXI,NASDAQ,RUB,72,FALSE
+921,Incyte Corporation,INCY,NASDAQ,EUR,68,FALSE
+922,"MuleSoft, Inc.",MULE,NYSE,PEN,87,FALSE
+923,"First US Bancshares, Inc.",FUSB,NASDAQ,PLN,29,FALSE
+924,Pimco New York Municipal Income Fund II,PNI,NYSE,XAF,76,FALSE
+925,"Casella Waste Systems, Inc.",CWST,NASDAQ,CNY,52,FALSE
+926,Rite Aid Corporation,RAD,NYSE,VEF,68,FALSE
+927,Ampco-Pittsburgh Corporation,AP,NYSE,COP,58,FALSE
+928,Baltimore Gas & Electric Company,BGE^B,NYSE,EUR,23,FALSE
+929,Dynegy Inc.,DYN,NYSE,CNY,82,FALSE
+930,"YuMe, Inc.",YUME,NYSE,PLN,100,FALSE
+931,China Yuchai International Limited,CYD,NYSE,CNY,49,FALSE
+932,"United Bancorp, Inc.",UBCP,NASDAQ,MMK,23,FALSE
+933,Syneron Medical Ltd.,ELOS,NASDAQ,PYG,44,FALSE
+934,The9 Limited,NCTY,NASDAQ,PHP,90,FALSE
+935,"Lowe&#39;s Companies, Inc.",LOW,NYSE,IDR,63,FALSE
+936,PartnerRe Ltd.,PRE^H,NYSE,CNY,21,FALSE
+937,POSCO,PKX,NYSE,CNY,73,FALSE
+938,Japan Smaller Capitalization Fund Inc,JOF,NYSE,VND,91,FALSE
+939,"Workhorse Group, Inc.",WKHS,NASDAQ,EUR,75,FALSE
+940,TD Ameritrade Holding Corporation,AMTD,NASDAQ,THB,20,FALSE
+941,Markel Corporation,MKL,NYSE,CNY,59,FALSE
+942,Seneca Foods Corp.,SENEA,NASDAQ,NGN,100,FALSE
+943,FelCor Lodging Trust Incorporated,FCH,NYSE,RUB,92,FALSE
+944,"LMI Aerospace, Inc.",LMIA,NASDAQ,NGN,42,FALSE
+945,CHS Inc,CHSCP,NASDAQ,PEN,6,FALSE
+946,"American Midstream Partners, LP",AMID,NYSE,MAD,81,FALSE
+947,Bank Of Montreal,BMLP,NASDAQ,CNY,88,FALSE
+948,Stonegate Bank,SGBK,NASDAQ,IDR,75,FALSE
+949,"Superior Energy Services, Inc.",SPN,NYSE,CNY,45,FALSE
+950,Hutchison China MediTech Limited,HCM,NASDAQ,SEK,94,FALSE
+951,Regulus Therapeutics Inc.,RGLS,NASDAQ,JPY,66,FALSE
+952,Grupo Supervielle S.A.,SUPV,NYSE,USD,14,FALSE
+953,"Honda Motor Company, Ltd.",HMC,NYSE,IDR,9,FALSE
+954,Briggs & Stratton Corporation,BGG,NYSE,CUP,38,FALSE
+955,"SORL Auto Parts, Inc.",SORL,NASDAQ,RSD,97,FALSE
+956,Tsakos Energy Navigation Ltd,TNP^E,NYSE,SDG,98,FALSE
+957,"Momenta Pharmaceuticals, Inc.",MNTA,NASDAQ,CNY,99,FALSE
+958,MFS Municipal Income Trust,MFM,NYSE,IDR,82,FALSE
+959,"Customers Bancorp, Inc",CUBS,NYSE,CNY,41,FALSE
+960,National Retail Properties,NNN,NYSE,IDR,67,FALSE
+961,"Premier, Inc.",PINC,NASDAQ,PEN,88,FALSE
+962,"NexPoint Residential Trust, Inc.",NXRT,NYSE,LAK,40,FALSE
+963,Central Garden & Pet Company,CENTA,NASDAQ,THB,15,FALSE
+964,W.R. Berkley Corporation,WRB^B,NYSE,UAH,78,FALSE
+965,"Kinsale Capital Group, Inc.",KNSL,NASDAQ,RUB,2,FALSE
+966,Potlatch Corporation,PCH,NASDAQ,LBP,85,FALSE
+967,Humana Inc.,HUM,NYSE,JPY,18,FALSE
+968,Braskem S.A.,BAK,NYSE,KRW,39,FALSE
+969,Nabors Industries Ltd.,NBR,NYSE,EUR,83,FALSE
+970,"Landstar System, Inc.",LSTR,NASDAQ,EUR,56,FALSE
+971,Eagle Growth and Income Opportunities Fund,EGIF,NYSE,MKD,53,FALSE
+972,TapImmune Inc.,TPIV,NASDAQ,CZK,53,FALSE
+973,Jack In The Box Inc.,JACK,NASDAQ,IDR,77,FALSE
+974,"Harley-Davidson, Inc.",HOG,NYSE,BRL,88,FALSE
+975,"XO Group, Inc.",XOXO,NYSE,TTD,14,FALSE
+976,Modern Media Acquisition Corp.,MMDM,NASDAQ,EUR,20,FALSE
+977,"Aerojet Rocketdyne Holdings, Inc. ",AJRD,NYSE,CNY,52,FALSE
+978,Tenaris S.A.,TS,NYSE,KZT,41,FALSE
+979,Banco De Chile,BCH,NYSE,IDR,83,FALSE
+980,"Home BancShares, Inc.",HOMB,NASDAQ,RUB,13,FALSE
+981,"Alnylam Pharmaceuticals, Inc.",ALNY,NASDAQ,AFN,17,FALSE
+982,iShares MSCI Europe Small-Cap ETF,IEUS,NASDAQ,EUR,57,FALSE
+983,First Trust Germany AlphaDEX Fund,FGM,NASDAQ,IDR,94,FALSE
+984,Sunoco LP,SUN,NYSE,IDR,44,FALSE
+985,Coupa Software Incorporated,COUP,NASDAQ,CNY,77,FALSE
+986,First Defiance Financial Corp.,FDEF,NASDAQ,EUR,81,FALSE
+987,Unico American Corporation,UNAM,NASDAQ,CZK,84,FALSE
+988,Seagate Technology PLC,STX,NASDAQ,IDR,67,FALSE
+989,Arthur J. Gallagher & Co.,AJG,NYSE,JPY,54,FALSE
+990,Barington/Hilco Acquisition Corp.,BHAC,NASDAQ,USD,41,FALSE
+991,"Plains Group Holdings, L.P.",PAGP,NYSE,CNY,43,FALSE
+992,Canterbury Park Holding Corporation,CPHC,NASDAQ,BYR,45,FALSE
+993,"Blackrock MuniYield California Fund, Inc.",MYC,NYSE,RUB,22,FALSE
+994,"Parke Bancorp, Inc.",PKBK,NASDAQ,BOB,89,FALSE
+995,"Sonus Networks, Inc.",SONS,NASDAQ,TZS,7,FALSE
+996,"Apollo Endosurgery, Inc.",APEN,NASDAQ,THB,96,FALSE
+997,"Nord Anglia Education, Inc.",NORD,NYSE,EUR,39,FALSE
+998,Vonage Holdings Corp.,VG,NYSE,CLP,17,FALSE
+999,Apartment Investment and Management Company,AIV,NYSE,ARS,91,FALSE
+1000,EPR Properties,EPR^F,NYSE,EUR,22,FALSE
